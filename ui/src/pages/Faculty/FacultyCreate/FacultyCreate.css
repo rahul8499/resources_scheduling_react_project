@@ -1,0 +1,35 @@
+.inputcontainer{
+  
+    /* background-color: red; */
+    display: grid;
+    grid-template-columns: auto;
+    margin-left: 2rem;
+    
+  }
+  .inputLable{
+    margin:0.50rem;
+    margin-left:0 ;
+  }
+  
+  .input{
+    width: 30vw;
+    height: 3rem;
+  }
+  .error-text{
+    color: red;
+  }
+  .btncontainer{
+    margin-left: 2rem;
+  }
+  .btn{
+    border: 1px solid grey;
+    width:10rem;
+    margin: 1rem;
+    margin-left: 0;
+    height: 3rem;
+    color: white;
+    
+  }
+
+
+  

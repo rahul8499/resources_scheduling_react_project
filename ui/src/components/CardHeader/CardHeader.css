@@ -1,0 +1,27 @@
+.cardbody {
+    width: 5rem;
+    height: 4rem;
+    margin-right: 1rem;
+    background-color: bisque;
+}
+
+.faculty-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 8px;
+    box-sizing: border-box;
+    border: 2px solid black;
+
+  }
+  
+  .faculty-card__image {
+    width: 25px;
+  }
+  
+  .faculty-card__name {
+    margin-top: 4px;
+    font-size: 12px;
+    text-align: center;
+  }
+  
